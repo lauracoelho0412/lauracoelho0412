@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">💜Sobre mim</h2>
+<h2 align="left">Sobre mim💜</h2>
 
 ###
 
-<p align="left">👩‍🎓Técnica de Informática pelo Senac e graduanda em Ciência da Computação<br><br>📚 Atualmente aprendendo NestJS, APIs e desenvolvimento backend<br><br>🎯 Objetivos: Conquistar minha primeira vaga como desenvolvedora júnior e contribuir em projetos reais<br><br>🎲 Curiosidade aleatória: Participei do Empreenda Senac 2023 e fui para as semifinais com meu projeto!</p>
+<p align="left">- Técnica de Informática pelo Senac e graduanda em Ciência da Computação<br><br>- Atualmente aprendendo NestJS, APIs e desenvolvimento backend<br><br>- Objetivos: Conquistar minha primeira vaga como desenvolvedora júnior e contribuir em projetos reais<br><br>- Curiosidade aleatória: Participei do Empreenda Senac 2023 e fui para as semifinais com meu projeto!</p>
 
 ###
 
-<h2 align="left">💻Linguagens que já usei</h2>
+<h2 align="left">Linguagens que já usei</h2>
 
 ###
 
